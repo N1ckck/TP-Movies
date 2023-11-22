@@ -1,8 +1,8 @@
 # Guia Movies
 
 ### Integrantes:
-# Pablo Caneda
-# Nicolas Crisanto 26 - Buenos Aires
-# Javier Escobar 
+# Pablo Caneda 22 Buenos Aires
+# Nicolas Crisanto
+# Javier Escobar 27 Buenos Aires
 # Andres Paglialunga
-# Jose Diaz
+# Jose Diaz 32 San Juan 
